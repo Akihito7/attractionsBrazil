@@ -7,3 +7,10 @@
 :root{
   font-size: 62.5%;
 }
+
+html{
+  background-color: black;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+
+}

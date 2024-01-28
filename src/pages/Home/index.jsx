@@ -208,7 +208,7 @@ export function Home() {
                 Você chegou ao fim da experiência!
             </EndExperience>
             <EndText>
-                Mas esses são apenas 5 pontos turisticos do nosso Brasil, há muitos outros interresante e agrádavel tanto quanto os que foram mostrados em meu site, sinta-se avontade para explorar tudo!
+                Mas esses são apenas 4 pontos turisticos do nosso Brasil, há muitos outros interresante e agrádavel tanto quanto os que foram mostrados em meu site, sinta-se avontade para explorar tudo!
             </EndText>
             <WithLove>
                 O site foi feito com muito amor ❤️

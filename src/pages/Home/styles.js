@@ -224,6 +224,8 @@ padding: 0 4rem;
 
 @media screen and (max-width: 485px){
    width: 100%;
+   padding-bottom: 2rem;
+   
 }
 
 `

@@ -19,7 +19,7 @@ import {
 
 import { Attraction } from "../../components/attractions";
 import { attractions } from "../../utils/attractions";
-import { CardPeopleSaid } from "../../cardPeopleSaid";
+import { CardPeopleSaid } from "../../components/cardPeopleSaid";
 import { commentsData, commentsInverseData } from "../../utils/comments";
 
 export function Home() {
